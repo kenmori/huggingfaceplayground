@@ -1,1 +1,3 @@
 # huggingfaceplayground
+
+`node stableImageUltra.js`
